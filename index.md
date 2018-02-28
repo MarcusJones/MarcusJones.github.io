@@ -1,3 +1,5 @@
+Click on the headers below to be taken to project pages...
+
 ___
 
 # [Autonomous Driving ai.drive()](https://marcusjones.github.io/ai.drive/)
@@ -8,16 +10,12 @@ ai.drive Project page: (https://marcusjones.github.io/ai.drive/)
 
 ___
 
-# Round-trip parsing of simulation data
+# [[Energy Parser] Round-trip parsing of simulation data](https://github.com/MarcusJones/EnergyParser) 
+
 
 -   TRNSYS and EnergyPlus input files \<\> XML
 -   TRNSYS and EnergyPlus output \<\> 'Dataframe' and Matlab etc.
-
-formats (Similar to R dataframe object, with units)
-
-[[EnergyParser] Package](https://github.com/MarcusJones/EnergyParser)
-
-[[exergyframe] Package](https://github.com/MarcusJones/exergyframe) 
+-   Formats (Similar to R dataframe object, with units)
 
 ___
 
