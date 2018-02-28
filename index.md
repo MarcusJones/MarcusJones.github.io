@@ -30,8 +30,7 @@ ___
 
 -   Data population using efficient database transactions
 -   Automated checking, manipulation, extraction of database elements
-
-[Documentation](https://htmlpreview.github.io/?https://github.com/MarcusJones/ExergyUtilities/blob/master/RevitUtilities/_build/html/index.html)
+-   [Documentation](https://htmlpreview.github.io/?https://github.com/MarcusJones/ExergyUtilities/blob/master/RevitUtilities/_build/html/index.html)
 
 ___
 
