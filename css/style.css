@@ -6,6 +6,10 @@ body {
 	margin: 30px;
 }
 
+header {
+  display: none;
+}
+
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
 	padding: 0px;
