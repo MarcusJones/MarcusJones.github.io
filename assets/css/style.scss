@@ -2,8 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-header { display: none;}
-#header { display: none;}
+header { display: none;} // THIS DOESN'T DO ANYTHING!
+#header { display: none;} //THIS WORKS!
+#header {  height: 0px;}
+
 
 //header {
 //  display: none;
