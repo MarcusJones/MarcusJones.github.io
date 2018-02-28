@@ -2,7 +2,7 @@ Click on the headers below to be taken to project pages...
 
 ___
 
-# [ai.drive()_Autonomous driving_](https://marcusjones.github.io/ai.drive/)
+# [ai.drive() _Autonomous driving_](https://marcusjones.github.io/ai.drive/)
 
 _Hacking in Autonmous Driving using deep learning, and an Raspberry Pi controlled RC car_
 
@@ -34,7 +34,6 @@ ___
 
 ___
 
-# Various data projects, general IO utilities
 # [ExergyUtilities _General utility library_](https://github.com/MarcusJones/ExergyUtilities) 
 
 -   SQL core and ORM wrapper
