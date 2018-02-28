@@ -2,6 +2,139 @@
 
 TEST
 
+
+
+
+
+
+GitHub projects
+===============
+
+[Marcus Jones]
+
+-   [Home](index.html)
+-   [](#)
+-   [](#)
+-   [](#)
+-   [](#)
+
+Autonomous Driving - ai.drive() {.title}
+-------------------------------
+
+I'm hacking on the topic Autonmous Driving using deep learning and a
+1/18 RC car!
+
+Hardware
+
+-   Raspberry Pi 3
+-   1/18 scale RC car chassis
+-   ADC8596 PWM
+-   Sony Dualshock 3 contoller
+    -   Brushless DC motor
+    -   2x LiPo battery \*
+    -   Electronic speed controller
+
+Software
+
+-   Black tea
+-   Green tea
+
+Communications
+
+-   I²C (Inter-Integrated Circuit) bus
+-   WiFi
+-   Bluetooth
+-   USB
+
+[[ai.drive] Project](https://marcusjones.github.io/ai.drive/)
+
+\
+
+[[EnergyParser] Package](https://github.com/MarcusJones/EnergyParser)
+
+[[exergyframe] Package](https://github.com/MarcusJones/exergyframe) \
+\
+
+Round-trip parsing of simulation data {.title}
+-------------------------------------
+
+ 
+
+-   TRNSYS and EnergyPlus input files \<\> XML
+-   TRNSYS and EnergyPlus output \<\> 'Dataframe' and Matlab etc.
+    formats (Similar to R dataframe object, with units)
+
+\
+
+[[EnergyParser] Package](https://github.com/MarcusJones/EnergyParser)
+
+[[exergyframe] Package](https://github.com/MarcusJones/exergyframe) \
+\
+
+Evolutionary Algorithms {.title}
+-----------------------
+
+ 
+
+-   Dynamic SQL database Schema generation and data population for
+    efficient storage of evolutionary algorithm results (millions of
+    individuals) using database ORM (Object Relationship Modeling)
+-   Trnsys parameterization and parallel execution
+-   Post-processing including generation of animated and static figures
+
+\
+
+[[gamete] Package](https://github.com/MarcusJones/gamete) \
+\
+
+Revit Python API utilies and Wrapper {.title}
+------------------------------------
+
+ 
+
+-   Data population using efficient database transactions
+-   Automated checking, manipulation, extraction of database elements
+
+\
+
+[[RevitAPI] Package](https://github.com/MarcusJones/RevitAPI) and
+[Documentation](https://htmlpreview.github.io/?https://github.com/MarcusJones/ExergyUtilities/blob/master/RevitUtilities/_build/html/index.html)
+\
+\
+
+Various data projects, general IO utilities {.title}
+-------------------------------------------
+
+\
+
+-   SQL core and ORM wrapper
+-   File IO, parallel execution
+-   Excel API and CSV
+
+\
+\
+
+[[ExergyUtilities]
+Package](https://github.com/MarcusJones/ExergyUtilities) \
+\
+
+### 
+
+### 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/MarcusJones/MarcusJones.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
