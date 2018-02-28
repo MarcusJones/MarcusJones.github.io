@@ -11,6 +11,11 @@ GitHub projects
 -   [](#)
 -   [](#)
 
+[create an anchor](#Autonomous-Driving---ai.drive())
+
+[create an anchor2](#Evolutionary-Algorithms)
+
+
 Autonomous Driving - ai.drive()
 -------------------------------
 
@@ -25,7 +30,7 @@ I'm hacking on the topic Autonmous Driving using deep learning and a
 [[exergyframe] Package](https://github.com/MarcusJones/exergyframe) \
 \
 
-Round-trip parsing of simulation data {.title}
+Round-trip parsing of simulation data
 -------------------------------------
 
 -   TRNSYS and EnergyPlus input files \<\> XML
@@ -40,7 +45,7 @@ Round-trip parsing of simulation data {.title}
 [[exergyframe] Package](https://github.com/MarcusJones/exergyframe) \
 \
 
-Evolutionary Algorithms {.title}
+Evolutionary Algorithms
 -----------------------
 
  
