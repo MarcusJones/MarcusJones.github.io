@@ -2,7 +2,7 @@ Click on the headers below to be taken to project pages...
 
 ___
 
-# [Autonomous Driving ai.drive()](https://marcusjones.github.io/ai.drive/)
+# [Autonomous Driving [ai.drive()]](https://marcusjones.github.io/ai.drive/)
 
 _Hacking in Autonmous Driving using deep learning, and an Raspberry Pi controlled RC car_
 
@@ -10,8 +10,7 @@ ai.drive Project page: (https://marcusjones.github.io/ai.drive/)
 
 ___
 
-# [[Energy Parser] Round-trip parsing of simulation data](https://github.com/MarcusJones/EnergyParser) 
-
+# [[Energy Parser] Simulation data pre and post-processing](https://github.com/MarcusJones/EnergyParser) 
 
 -   TRNSYS and EnergyPlus input files \<\> XML
 -   TRNSYS and EnergyPlus output \<\> 'Dataframe' and Matlab etc.
