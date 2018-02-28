@@ -5,13 +5,13 @@ GitHub projects
 
 [Marcus Jones]
 
--   [Home](index.html)
--   [ai.drive] Project]https://marcusjones.github.io/ai.drive/)
+
+-   ai.drive Project page: (https://marcusjones.github.io/ai.drive/)
 -   [](#)
 -   [](#)
 -   [](#)
 
-Autonomous Driving - ai.drive() {.title}
+Autonomous Driving - ai.drive()
 -------------------------------
 
 I'm hacking on the topic Autonmous Driving using deep learning and a
