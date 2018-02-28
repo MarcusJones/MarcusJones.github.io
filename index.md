@@ -4,9 +4,10 @@ ___
 
 # [ai.drive() _Autonomous driving_](https://marcusjones.github.io/ai.drive/)
 
-_Hacking in Autonmous Driving using deep learning, and an Raspberry Pi controlled RC car_
-
-ai.drive Project page: (https://marcusjones.github.io/ai.drive/)
+-   Hacking in Autonmous Driving by applying deep learning, 
+-   Hardware stack including Raspberry Pi controlled RC car
+-   Sensor fusion with camera, ultra-sound, etc. 
+-   Optimization of techniques for performance
 
 ___
 
