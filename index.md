@@ -1,19 +1,12 @@
-
-Test hr:
-
 ___
-
-
 
 # Autonomous Driving ai.drive()
 
-I'm hacking on the topic Autonmous Driving using deep learning and a
-1/18 RC car!
-
+### I'm hacking on the topic Autonmous Driving using deep learning and aan 1/18 RC car!
 
 ai.drive Project page: (https://marcusjones.github.io/ai.drive/)
 
-
+___
 
 # Round-trip parsing of simulation data
 
@@ -26,7 +19,7 @@ formats (Similar to R dataframe object, with units)
 
 [[exergyframe] Package](https://github.com/MarcusJones/exergyframe) 
 
-
+___
 
 # Evolutionary Algorithms
 
@@ -37,22 +30,25 @@ formats (Similar to R dataframe object, with units)
 
 [[gamete] Package](https://github.com/MarcusJones/gamete) 
 
+___
+
 # Revit Python API utilies and Wrapper
 
 -   Data population using efficient database transactions
 -   Automated checking, manipulation, extraction of database elements
 
+___
 
 [[RevitAPI] Package](https://github.com/MarcusJones/RevitAPI) 
 [Documentation](https://htmlpreview.github.io/?https://github.com/MarcusJones/ExergyUtilities/blob/master/RevitUtilities/_build/html/index.html)
 
+___
 
 # Various data projects, general IO utilities {.title}
 
 -   SQL core and ORM wrapper
 -   File IO, parallel execution
 -   Excel API and CSV
-
 
 [[ExergyUtilities]
 Package](https://github.com/MarcusJones/ExergyUtilities) 
