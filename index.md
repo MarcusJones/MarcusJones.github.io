@@ -1,19 +1,12 @@
 ## Welcome to GitHub Pages
 
-TEST
-
-
-
-
-
-
 GitHub projects
 ===============
 
 [Marcus Jones]
 
 -   [Home](index.html)
--   [](#)
+-   [ai.drive] Project]https://marcusjones.github.io/ai.drive/)
 -   [](#)
 -   [](#)
 -   [](#)
@@ -24,29 +17,6 @@ Autonomous Driving - ai.drive() {.title}
 I'm hacking on the topic Autonmous Driving using deep learning and a
 1/18 RC car!
 
-Hardware
-
--   Raspberry Pi 3
--   1/18 scale RC car chassis
--   ADC8596 PWM
--   Sony Dualshock 3 contoller
-    -   Brushless DC motor
-    -   2x LiPo battery \*
-    -   Electronic speed controller
-
-Software
-
--   Black tea
--   Green tea
-
-Communications
-
--   I²C (Inter-Integrated Circuit) bus
--   WiFi
--   Bluetooth
--   USB
-
-[[ai.drive] Project](https://marcusjones.github.io/ai.drive/)
 
 \
 
@@ -58,10 +28,9 @@ Communications
 Round-trip parsing of simulation data {.title}
 -------------------------------------
 
- 
-
 -   TRNSYS and EnergyPlus input files \<\> XML
 -   TRNSYS and EnergyPlus output \<\> 'Dataframe' and Matlab etc.
+
     formats (Similar to R dataframe object, with units)
 
 \
