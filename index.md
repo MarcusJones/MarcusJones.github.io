@@ -1,5 +1,4 @@
-Autonomous Driving ai.drive()
--------------------------------
+# Autonomous Driving ai.drive()
 
 I'm hacking on the topic Autonmous Driving using deep learning and a
 1/18 RC car!
@@ -8,32 +7,13 @@ I'm hacking on the topic Autonmous Driving using deep learning and a
 ai.drive Project page: (https://marcusjones.github.io/ai.drive/)
 
 
-Test 1
-**********
 
-Test 2
----------
-
-
-Test 3
-___________
-
-# test 4
-
-## test 5
-
-### test6
-
-
-Round-trip parsing of simulation data
--------------------------------------
+# Round-trip parsing of simulation data
 
 -   TRNSYS and EnergyPlus input files \<\> XML
 -   TRNSYS and EnergyPlus output \<\> 'Dataframe' and Matlab etc.
 
 formats (Similar to R dataframe object, with units)
-
-
 
 [[EnergyParser] Package](https://github.com/MarcusJones/EnergyParser)
 
@@ -41,9 +21,7 @@ formats (Similar to R dataframe object, with units)
 
 
 
-Evolutionary Algorithms
------------------------
- 
+# Evolutionary Algorithms
 
 -   Dynamic SQL database Schema generation and data population for efficient storage of evolutionary algorithm results (millions of individuals) using database ORM (Object Relationship Modeling)
 -   Trnsys parameterization and parallel execution
@@ -52,8 +30,7 @@ Evolutionary Algorithms
 
 [[gamete] Package](https://github.com/MarcusJones/gamete) 
 
-Revit Python API utilies and Wrapper {.title}
-------------------------------------
+# Revit Python API utilies and Wrapper
 
 -   Data population using efficient database transactions
 -   Automated checking, manipulation, extraction of database elements
@@ -63,8 +40,7 @@ Revit Python API utilies and Wrapper {.title}
 [Documentation](https://htmlpreview.github.io/?https://github.com/MarcusJones/ExergyUtilities/blob/master/RevitUtilities/_build/html/index.html)
 
 
-Various data projects, general IO utilities {.title}
--------------------------------------------
+# Various data projects, general IO utilities {.title}
 
 -   SQL core and ORM wrapper
 -   File IO, parallel execution
@@ -74,14 +50,24 @@ Various data projects, general IO utilities {.title}
 [[ExergyUtilities]
 Package](https://github.com/MarcusJones/ExergyUtilities) \
 
-
-### 
-
-### 
-
  
+<!--- 
+Test 1
+**********
 
- 
+Test 2
+---------
+
+Test 3
+___________
+
+# test 4
+
+## test 5
+
+### test6
+ --->
+ <!--- 
 
  
 
@@ -127,3 +113,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ --->
