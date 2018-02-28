@@ -2,7 +2,7 @@ ___
 
 # Autonomous Driving ai.drive()
 
-### I'm hacking on the topic Autonmous Driving using deep learning and aan 1/18 RC car!
+_Hacking in Autonmous Driving using deep learning, and an Raspberry Pi controlled RC car_
 
 ai.drive Project page: (https://marcusjones.github.io/ai.drive/)
 
