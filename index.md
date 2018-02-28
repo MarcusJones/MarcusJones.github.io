@@ -11,9 +11,9 @@ GitHub projects
 -   [](#)
 -   [](#)
 
-[create an anchor](#Autonomous-Driving---ai.drive())
+[create an anchor](#autonomous-driving---ai.drive())
 
-[create an anchor2](#Evolutionary-Algorithms)
+[create an anchor2](#evolutionary-algorithms)
 
 
 Autonomous Driving - ai.drive()
