@@ -4,6 +4,11 @@ ___
 
 # [|ai.drive()| _Autonomous driving_](https://marcusjones.github.io/ai.drive/)
 # _Autonomous driving_
+<p style="text-align: right;"> RIGHT </p>
+
+{::nomarkdown}
+<p style="text-align: right;"> RIGHT </p>
+{:/} 
 
 -   Hacking in Autonmous Driving by applying deep learning, 
 -   Hardware stack including Raspberry Pi controlled RC car
