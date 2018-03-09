@@ -5,8 +5,14 @@ ___
 # [|ai.drive()|](https://marcusjones.github.io/ai_drive/)
 
 {::nomarkdown}
-<h1 style="text-align: right;"> <em>Autonomous driving</em> </h1>
-{:/} 
+    <h1 style="text-align: right;"> <em>Autonomous driving</em> </h1>
+{:/}
+
+{::nomarkdown}
+    <p style="text-align;">
+        <img src="https://marcusjones.github.io/ai.drive/Post2_2018FEB28/BuiltUpChassis_SMALL.jpg" width = 40%>
+    </p>
+{:/}
 
 
 -   Hacking in Autonmous Driving by applying deep learning, 
