@@ -2,7 +2,7 @@ Click on the headers below to be taken to the respective project pages.
 
 ___
 
-# [|ai.drive()| __](https://marcusjones.github.io/ai_drive/)
+# [|ai.drive()|](https://marcusjones.github.io/ai_drive/)
 
 {::nomarkdown}
 <h1 style="text-align: right;"> <em>Autonomous driving</em> </h1>
