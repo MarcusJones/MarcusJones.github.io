@@ -8,17 +8,17 @@ ___
     <h1 style="text-align: right;"> <em>Autonomous driving</em> </h1>
 {:/}
 
-{::nomarkdown}
-    <p style="text-align: right;">
-        <img src="https://marcusjones.github.io/images/BuiltUpChassis_SMALL.jpg" width = 40%>
-    </p>
-{:/}
-
 
 -   Hacking in Autonmous Driving by applying deep learning, 
 -   Hardware stack including Raspberry Pi controlled RC car
 -   Sensor fusion with camera, ultra-sound, etc. 
 -   Optimization of techniques for performance
+
+{::nomarkdown}
+    <p style="text-align: right;">
+        <img src="https://marcusjones.github.io/images/BuiltUpChassis_SMALL.jpg" width = 40%>
+    </p>
+{:/}
 
 ___
 
