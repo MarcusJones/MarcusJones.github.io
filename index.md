@@ -9,7 +9,7 @@ ___
 {:/}
 
 {::nomarkdown}
-    <p style="text-align;">
+    <p style="text-align: right;">
         <img src="https://marcusjones.github.io/images/BuiltUpChassis_SMALL.jpg" width = 40%>
     </p>
 {:/}
