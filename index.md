@@ -28,7 +28,7 @@ ___
 
 # [|gamete|](https://github.com/MarcusJones/gamete)
 {::nomarkdown}
-<h1 style="text-align: right;"> <em>Evolutionary Algorithms</em> </h1>
+<h1 style="text-align: right;"> <em>Evolutionary algorithms</em> </h1>
 {:/}
 -   Dynamic SQL database Schema generation and data population for efficient storage of evolutionary algorithm results (millions of individuals) using database ORM (Object Relationship Modeling)
 -   Trnsys parameterization and parallel execution
@@ -46,7 +46,7 @@ ___
 
 ___
 
-# [\ExergyUtilities|](https://github.com/MarcusJones/ExergyUtilities) 
+# [|ExergyUtilities|](https://github.com/MarcusJones/ExergyUtilities) 
 {::nomarkdown}
 <h1 style="text-align: right;"> <em>General utility library</em> </h1>
 {:/}
