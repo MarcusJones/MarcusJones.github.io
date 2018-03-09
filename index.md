@@ -10,7 +10,7 @@ ___
 
 {::nomarkdown}
     <p style="text-align;">
-        <img src="https://marcusjones.github.io/ai.drive/Post2_2018FEB28/BuiltUpChassis_SMALL.jpg" width = 40%>
+        <img src="https://marcusjones.github.io/images/BuiltUpChassis_SMALL.jpg" width = 40%>
     </p>
 {:/}
 
