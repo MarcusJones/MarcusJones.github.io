@@ -5,9 +5,7 @@ ___
 # [|Mule AI|](https://github.com/MarcusJones/muleAI)
 
 {::nomarkdown}
-```html
 <h1 style="text-align: right;"> <em>Autonomous racing platform</em> </h1>
-```
 
 {:/}
 
