@@ -50,12 +50,61 @@ Work in progress!
 <p style="text-align: right;">
     <img src="https://marcusjones.github.io/images/BuiltUpChassis_SMALL.jpg" width = 60%>
 </p>
+{:/}
+
+
+
+------
+
+# [|Mantaray JupyterHub|](https://github.com/MarcusJones/EnergyParser) 
+
+{::nomarkdown}
+
+<h1 style="text-align: right;"> <em>Productionized open Jupyter Notebooks</em> </h1>
 
 {:/}
 
+- Open source, built for Ocean Protocol Foundation
+- Live at [datascience.oceanprotocol.com](https://datascience.oceanprotocol.com/)
+- Python <> Jupyter Notebook development via the open [jupytext](https://github.com/mwouts/jupytext) project
+- Publication of notebooks to server
+- Custom docker images including the Ocean Protocol stack for data science users 
+- Management of customer facing JupyterHub/Kubernetes cluster for 100+ users
+
 ___
 
+# [|Jawfish data catalog and asset onboarding|](https://github.com/MarcusJones/EnergyParser) 
+
+{::nomarkdown}
+
+<h1 style="text-align: right;"> <em>Batch automated management of digital assets</em> </h1>
+
+{:/}
+
+- Open source, built for Ocean Protocol Foundation
+- Pandas based base class for local catalogs in Excel format, or Google Sheets via OAuth
+- Synchronization and management of asset files with i.e. AWS S3 
+- Parsing and error reporting for metadata information
+- Batch registration of large numbers of assets into Ocean Protocol marketplaces
+
+------
+
+# [|Plecos MetaData validator|](https://github.com/MarcusJones/EnergyParser) 
+
+{::nomarkdown}
+
+<h1 style="text-align: right;"> <em>MetaData JSON validator</em> </h1>
+
+{:/}
+
+- Open source, built for Ocean Protocol Foundation
+- Wrapping the [jsonschema](https://pypi.org/project/jsonschema/) JSON schema validator
+- Strict source of truth for all libraries dealing with MetaData in the Ocean network
+
+------
+
 # [|Energy Parser|](https://github.com/MarcusJones/EnergyParser) 
+
 {::nomarkdown}
 <h1 style="text-align: right;"> <em>Energy simulation data processing</em> </h1>
 {:/}
