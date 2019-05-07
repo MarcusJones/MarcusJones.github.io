@@ -1,4 +1,4 @@
-Click on the headers below to be taken to the respective project pages.
+Click on the headers below to be taken to the respective project Github repositories.
 
 ___
 
