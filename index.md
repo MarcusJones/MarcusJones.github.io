@@ -65,24 +65,19 @@ Work in progress!
 {:/}
 
 - Open source, built for Ocean Protocol Foundation
-
 - Live at [datascience.oceanprotocol.com](https://datascience.oceanprotocol.com/)
-
 - Python <> Jupyter Notebook development via the open [jupytext](https://github.com/mwouts/jupytext) project
-
 - Publication of notebooks to server
-
 - Custom docker images including the Ocean Protocol stack for data science users 
-
 - Management of customer facing JupyterHub/Kubernetes cluster for 100+ users
 
-  {::nomarkdown}
+{::nomarkdown}
 
-  <p style="text-align: right;">
-      <img src="https://marcusjones.github.io/images/Mantaray-Notebooks.png" width = 60%>
-  </p>
+<p style="text-align: right;">
+<img src="https://marcusjones.github.io/images/Mantaray-Notebooks.png" width = 60%>
+</p>
 
-  {:/}
+{:/}
 
 ___
 
@@ -99,6 +94,14 @@ ___
 - Synchronization and management of asset files with i.e. AWS S3 
 - Parsing and error reporting for metadata information
 - Batch registration of large numbers of assets into Ocean Protocol marketplaces
+
+{::nomarkdown}
+
+<p style="text-align: right;">
+    <img src="https://marcusjones.github.io/images/jawfish-dataseeding-catalog.png" width = 60%>
+</p>
+
+{:/}
 
 ------
 
