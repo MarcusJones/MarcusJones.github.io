@@ -13,7 +13,7 @@ ___
 Work in progress! 
 
 - Hacking on Internet Of Things + Blockchain + AI
-- Custom electronics with Rapsberry Pi controller and Arduino I2C bus microcontoller
+- Custom electronics with Rapsberry Pi controller and Arduino I2C bus microcontoller ([Electronics diagram PDF](https://marcusjones.github.io/images/Electronics r10-Page-2))
 - Actuation by track motors, servo positions
 - Sensing by GPS, camera, temperature+humidity etc.
 - Semi-autonomous operation by on-board deep learning
