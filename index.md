@@ -23,7 +23,7 @@ Work in progress!
 {::nomarkdown}
 
 <p style="text-align: right;">
-    <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%>
+    <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 60%>
 </p>
 
 
@@ -39,7 +39,7 @@ Work in progress!
 {:/}
 
 
--   [Custom modular robotics code](https://github.com/MarcusJones/muleAI) inspired by the [Donkey Car](https://www.donkeycar.com/) project
+-   Custom modular robotics code inspired by the [Donkey Car](https://www.donkeycar.com/) project
 -   Hardware stack including Raspberry Pi controlled RC car
 -   Experimentation with transfer learning and live race-conditions
 -   Software stack including on-board tensorflow vision controlled steering
@@ -65,11 +65,24 @@ Work in progress!
 {:/}
 
 - Open source, built for Ocean Protocol Foundation
+
 - Live at [datascience.oceanprotocol.com](https://datascience.oceanprotocol.com/)
+
 - Python <> Jupyter Notebook development via the open [jupytext](https://github.com/mwouts/jupytext) project
+
 - Publication of notebooks to server
+
 - Custom docker images including the Ocean Protocol stack for data science users 
+
 - Management of customer facing JupyterHub/Kubernetes cluster for 100+ users
+
+  {::nomarkdown}
+
+  <p style="text-align: right;">
+      <img src="https://marcusjones.github.io/images/Mantaray-Notebooks.png" width = 60%>
+  </p>
+
+  {:/}
 
 ___
 
@@ -89,7 +102,7 @@ ___
 
 ------
 
-# [|Plecos MetaData validator|](https://github.com/MarcusJones/EnergyParser) 
+# [Python|Plecos MetaData validator|](https://github.com/MarcusJones/EnergyParser) 
 
 {::nomarkdown}
 
