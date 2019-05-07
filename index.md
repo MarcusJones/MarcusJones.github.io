@@ -2,6 +2,35 @@ Click on the headers below to be taken to the respective project pages.
 
 ___
 
+# [|Pines and Electronics|](https://github.com/pines-and-electronics)
+
+{::nomarkdown}
+
+<h1 style="text-align: right;"> <em>Autonomous and decentralized science rover</em> </h1>
+
+{:/}
+
+Work in progress! 
+
+- Hacking on Internet Of Things + Blockchain + AI
+- Custom electronics with Rapsberry Pi controller and Arduino I2C bus microcontoller
+- Actuation by track motors, servo positions
+- Sensing by GPS, camera, temperature+humidity etc.
+- Semi-autonomous operation by on-board deep learning
+- Master control by Ethereum blockchain Decentralized Autonomous Organization (DAO) with governance
+- 2nd place entry at the Odyssey hackathon 2019, Nature 2.0 track
+
+{::nomarkdown}
+
+<p style="text-align: right;">
+    <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%>
+</p>
+
+
+{:/}
+
+------
+
 # [|Mule AI|](https://github.com/MarcusJones/muleAI)
 
 {::nomarkdown}
@@ -10,15 +39,18 @@ ___
 {:/}
 
 
--   Hacking in Autonmous Driving by applying deep learning, 
+-   [Custom modular robotics code](https://github.com/MarcusJones/muleAI) inspired by the [Donkey Car](https://www.donkeycar.com/) project
 -   Hardware stack including Raspberry Pi controlled RC car
+-   Experimentation with transfer learning and live race-conditions
+-   Software stack including on-board tensorflow vision controlled steering
 -   Sensor fusion with camera, ultra-sound, etc. 
--   Optimization of techniques for performance
+-   Optimization of techniques for race performance, 20Hz drive loop
 
 {::nomarkdown}
-    <p style="text-align: right;">
-        <img src="https://marcusjones.github.io/images/BuiltUpChassis_SMALL.jpg" width = 40%>
-    </p>
+<p style="text-align: right;">
+    <img src="https://marcusjones.github.io/images/BuiltUpChassis_SMALL.jpg" width = 60%>
+</p>
+
 {:/}
 
 ___
