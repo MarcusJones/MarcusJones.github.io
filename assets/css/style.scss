@@ -7,6 +7,20 @@ header { display: none;} // THIS DOESN'T DO ANYTHING!
 #header {  height: 0px;}
 .credits.left { display: none;}
 
+.container {
+  float: left;
+}
+
+.image {
+  display: block
+}
+
+.caption {
+  display: block;
+  width: 100%;
+  text-align: center; //assuming centered captions
+}
+
 //header {
 //  display: none;
 //}

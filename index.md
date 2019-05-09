@@ -20,7 +20,21 @@ Work in progress!
 - Master control by Ethereum blockchain Decentralized Autonomous Organization (DAO) with governance
 - 2nd place entry at the Odyssey hackathon 2019, Nature 2.0 track
 
+
+
 {::nomarkdown}
+
+<ul>
+  <li class="container">
+    <img class="image" src="https://marcusjones.github.io/images/pines-rover-electronics.jpg" width = 50%/>
+    <span class="caption">my caption</span>
+  </li>
+  <li class="container">
+    <img class="image" src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%/>       <span class="caption">my caption</span>
+  </li>
+</ul>
+
+
 
 <p style="text-align: middle;">
     <img src="https://marcusjones.github.io/images/pines-rover-electronics.jpg" width = 50%>
