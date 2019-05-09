@@ -25,29 +25,13 @@ Work in progress!
 {::nomarkdown}
 
 <div id="images">
-    <a href="http://xyz.com/hello">
-        <img src="hello.png" width="100px" height="100px">
+        <img src="https://marcusjones.github.io/images/pines-rover-electronics.jpg" width = 50%>
         <div class="caption">Caption 1</div>
-    </a>
-    <a href="http://xyz.com/hi">
-        <img src="hi.png" width="100px" height="100px"> 
+        <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%> 
         <div class="caption">Caption 2</div>
-    </a>
 </div>
 
 
-
-
-
-<ul>
-  <li class="container">
-    <img class="image" src="https://marcusjones.github.io/images/pines-rover-electronics.jpg" width = 50%/>
-    <span class="caption">my caption</span>
-  </li>
-  <li class="container">
-    <img class="image" src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%/>       <span class="caption">my caption</span>
-  </li>
-</ul>
 
 
 
