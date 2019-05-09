@@ -26,20 +26,10 @@ Work in progress!
 
 <div id="images">
         <img src="https://marcusjones.github.io/images/pines-rover-electronics.jpg" width = 50%>
-        <div class="caption">Caption 1</div>
+        <div class="caption">Electronics development</div>
         <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%> 
-        <div class="caption">Caption 2</div>
+        <div class="caption">Manufacturing update</div>
 </div>
-
-
-
-
-
-<p style="text-align: middle;">
-    <img src="https://marcusjones.github.io/images/pines-rover-electronics.jpg" width = 50%>
-    <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%>
-</p>
-
 
 
 {:/}
