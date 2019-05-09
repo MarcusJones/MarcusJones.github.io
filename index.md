@@ -22,9 +22,11 @@ Work in progress!
 
 {::nomarkdown}
 
-<p style="text-align: right;">
-    <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 60%>
+<p style="text-align: middle;">
+    <img src="https://marcusjones.github.io/images/pines-rover-electronics.jpg" width = 50%>
+    <img src="https://marcusjones.github.io/images/pines-rover.jpg" width = 50%>
 </p>
+
 
 
 {:/}
