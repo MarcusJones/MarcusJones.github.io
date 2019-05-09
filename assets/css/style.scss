@@ -7,6 +7,21 @@ header { display: none;} // THIS DOESN'T DO ANYTHING!
 #header {  height: 0px;}
 .credits.left { display: none;}
 
+
+#images{
+    text-align:center;
+    margin:50px auto;
+}
+#images a{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+}
+
+
+
+
 .container {
   float: left;
 }
